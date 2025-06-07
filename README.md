@@ -14,6 +14,8 @@ Eye State Detection Program (눈 뜸/감음 상태 감지)
 - MediaPipe
 - TensorFlow / Keras
 
+      
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/bfed0e6e-83fc-4754-a98b-b403eb65b2c1" />
 <img width="960" alt="눈 감" src="https://github.com/user-attachments/assets/f729d325-0ba2-4115-9724-ffe6b171c7c6" />
 <img width="932" alt="눈ㅁㅁ" src="https://github.com/user-attachments/assets/00dc244a-64e1-4707-8a1f-ae8841458677" />
 
@@ -25,5 +27,4 @@ Eye State Detection Program (눈 뜸/감음 상태 감지)
 ```bash
 pip install -r requirements.txt
 python detect_eye_state.py
-
 
