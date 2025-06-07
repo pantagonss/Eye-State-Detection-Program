@@ -19,3 +19,8 @@ Eye State Detection Program (눈 뜸/감음 상태 감지)
 ```bash
 pip install -r requirements.txt
 python detect_eye_state.py
+
+## 사진
+
+<img width="960" alt="Screenshot 2025-06-07 155742" src="https://github.com/user-attachments/assets/255f914e-5ef4-48b4-ade6-d9f271103f02" />
+
